@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 Sobre mí
 
-Soy estudiante de Ingeniería en Sistemas en 6° semestre, apasionado por construir soluciones que integren lógica, diseño y funcionalidad. Mi recorrido va desde aplicaciones de escritorio en Java hasta proyectos FullStack modernos con TypeScript, React y Node.js. Busco activamente mi primera experiencia profesional en desarrollo de software.
+Soy estudiante de Ingeniería en Sistemas en 7° semestre, apasionado por construir soluciones que integren lógica, diseño y funcionalidad. Mi recorrido va desde aplicaciones de escritorio en Java hasta proyectos FullStack modernos con TypeScript, React y Node.js. Busco activamente mi primera experiencia profesional en analisis de datos y/o desarrollo de software.
 
 ---
 
