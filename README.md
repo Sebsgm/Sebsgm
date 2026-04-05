@@ -7,7 +7,7 @@
 *"Con tiempo y dedicación todo es posible"*
 
 [![GitHub](https://img.shields.io/badge/GitHub-Sebsgm-181717?style=flat-square&logo=github)](https://github.com/Sebsgm)
-![Semestre](https://img.shields.io/badge/Semestre-6°-4A90D9?style=flat-square)
+![Semestre](https://img.shields.io/badge/Semestre-7°-4A90D9?style=flat-square)
 ![Ubicación](https://img.shields.io/badge/Ubicación-Bogotá%2C%20Colombia-E84040?style=flat-square)
 
 </div>
