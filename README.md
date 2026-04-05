@@ -1,72 +1,69 @@
-# 👋 ¡Hola! Soy Sebastián Gómez  
+# Hi, I'm Sebastián Gómez 👋
 
-🎓 **Estudiante de Ingeniería en Sistemas** (6° semestre) con interés en el desarrollo de software y el aprendizaje continuo de nuevas tecnologías.  
-💡 Me apasiona crear soluciones que integren lógica, diseño y funcionalidad, aplicando buenas prácticas de programación y metodologías ágiles.  
-🚀 Actualmente busco adquirir **experiencia laboral** en el área de desarrollo, aplicando mis conocimientos y creciendo profesionalmente en entornos colaborativos.  
+**Systems Engineering student** · Universidad Central, Bogotá (FICB) · 7th semester  
+Building software that solves real problems. Currently expanding into **ML/AI and Python data science**.
 
----
-
-## 🧠 Habilidades Técnicas
-
-### 💻 Lenguajes de Programación
-- **Java**  
-- **Python**  
-- **MySQL**  
-- **HTML**  
-- **CSS**
-
-### 🧩 Desarrollo y Frameworks
-- **Java Swing (JFrame)**  
-- **Tkinter (Python)**  
-- **CRUD Applications**  
-- **Diseño y Normalización de Bases de Datos**
-
-### ⚙️ Control de Versiones
-- **Git**  
-- **GitHub**
-
-### 🚀 Metodologías de Desarrollo
-- **SCRUM**  
-- **Programación Extrema (XP)**  
-- **Modelo de Prototipos**
-
-### 🧾 Herramientas y Entornos
-- **Visual Studio Code**  
-- **Eclipse**  
-- **MySQL Workbench**
-
-### 🌐 Otros Conocimientos
-- **Análisis y Levantamiento de Requerimientos**  
-- **Formulación de Casos de Uso**  
-- **Desarrollo de Interfaces Gráficas**  
-- **Generación de Reportes y Gráficas**
+📍 Bogotá, Colombia · 📬 Open to *práctica empresarial* opportunities
 
 ---
 
-## 🏗️ Proyectos Destacados
+## About
 
-### 🧩 Sistema de Gestión de Inventarios y Ventas  
-Desarrollo de una aplicación en **Java (JFrame)** con base de datos **MySQL** para administrar inventarios, ventas y reportes.  
-Aplicación de **SCRUM** y **modelo de Prototipos**, con módulos CRUD para usuarios, clientes, productos y categorías.
+I'm a 7th-semester Systems Engineering student covering the full software lifecycle — from requirements gathering to delivery — across inventory systems, payroll apps, and automata-based projects, with Java + MySQL as my core stack.
 
-### 💼 Sistema de Gestión de Nómina  
-Aplicación creada para la gestión de empleados, contratos, devengados y descuentos.  
-Incluye cálculo automático de horas extras y generación de recibos de pago.
-
-### 🎮 Juego tipo *“¿Quién quiere ser Millonario?”*  
-Juego educativo desarrollado en **Java (JFrame)** con categorías de **Ciencia** y **Cultura general**.  
-Implementación de arreglos para manejo de preguntas y control de tiempo dinámico.
+Right now I'm expanding into **ML/AI and Python data science**, with the long-term goal of building high-impact software products. I care about understanding systems deeply, not just making them work.
 
 ---
 
-## 📜 Certificaciones y Competencias
+## 🛠 Tech Stack
 
-- **SENA:** Variables y Estructuras de Control en Python  
-- **TOEFL Junior:** Inglés Nivel B1  
-- **COPNIA:** Cátedra Ética para Ingenieros  
-- **Metodologías Ágiles:** SCRUM, Programación XP  
-- **Comunicación efectiva y trabajo en equipo**
+| Area | Technologies |
+|---|---|
+| Languages | Java · Python · SQL · HTML/CSS |
+| Backend & DB | MySQL · JDBC · Java Swing · HTTP APIs |
+| Tools | Git · GitHub · NetBeans · VS Code · Packet Tracer |
+| Methods | SCRUM · XP · Use Case Analysis |
 
 ---
 
-⭐ *“Con tiempo y dedicación todo es posible”*  
+## 📂 Featured Projects
+
+### 💼 [Sistema de Nómina](https://github.com/Sebsgm/Proyecto-Nomina) — Payroll Management System
+Full payroll system covering employee management, contracts, earnings, discounts, and automatic overtime calculation. Generates PDF pay stubs via iText. Migrated from a monolithic JDBC architecture to a client-server HTTP model.  
+`Java` `MySQL` `Swing` `iText PDF` `JFreeChart`
+
+### 📦 [TecnoSuministros](https://github.com/Sebsgm/Proyecto-TecnoSuministros) — Inventory & Sales System
+End-to-end inventory management for a real client. Covered requirements gathering, use case definition, normalized DB design, and final product delivery. Full CRUD for users, clients, products, and categories.  
+`Java` `MySQL` `Swing` `SCRUM`
+
+### 🗃️ [Proyecto Base de Datos](https://github.com/Sebsgm/Proyecto-Base-de-Datos) — DB Design in Practice
+Applied relational database design to a real-world business case — normalization, relationships, and stored procedures.  
+`Java` `MySQL`
+
+### 🎮 [Autómatas Finitos Deterministas](https://github.com/Sebsgm/Proyecto-Automatas-Finitos-Deterministas) — Quiz Game
+Educational quiz game built on DFA (Deterministic Finite Automata) theory. Science and general knowledge categories with dynamic timer control.  
+`Java` `Automata Theory` `Swing`
+
+---
+
+## 📈 Learning Path
+
+```
+Java + MySQL ✓ → OOP + DB Design ✓ → Python / NumPy / Pandas → ML / Scikit-learn → AI Applications
+```
+
+Currently focused on: **Python scientific computing** (NumPy, Pandas, Matplotlib, Jupyter)  
+Target: Build ML portfolio projects and contribute to AI-adjacent products.
+
+---
+
+## 🏅 Certifications
+
+- 🌐 **TOEFL Junior** — English B2
+- 🐍 **SENA** — Python: Variables and Control Structures  
+- ⚖️ **COPNIA** — Engineering Ethics  
+- 🔄 **Agile** — SCRUM & XP Methodologies
+
+---
+
+*Open to internship opportunities in software development and ML/AI engineering.*
